@@ -527,7 +527,7 @@ section .bottom-section:hover .item2 .sub-l-s h2 {
 }
 
 .fws-content-container {
-  border: gold 1px solid;
+  
  width: 100%;
  height: 55vh;
  display: flex;
